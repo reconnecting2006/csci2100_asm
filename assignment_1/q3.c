@@ -1,4 +1,5 @@
 #include "stack.h"
+#include "stack.c"
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
