@@ -15,7 +15,7 @@ int main(){
         i++;
     }
     if(StackDepth(s)%2!=0){
-        printf("no\n");
+        printf("no\n\n");
         continue;
     }
     else{
@@ -31,7 +31,7 @@ int main(){
             }
         }
         if(StackDepth(up)!=StackDepth(s)){
-            printf("no\n");
+            printf("no\n\n");
             continue;
         }
         int n=StackDepth(up);
@@ -42,7 +42,7 @@ int main(){
                 break;
             }
         }
-        if(same){printf("yes\n");}else{printf("no\n");}
+        if(same){printf("yes\n\n");}else{printf("no\n\n");}
     }
 }
     return 0;

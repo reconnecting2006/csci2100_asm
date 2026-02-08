@@ -1,10 +1,10 @@
-On average a VIP account holder needs to wait for 10.53 minutes after he joins a queue until he leaves the queue and starts to be served.
-On average an ordinary account holder needs to wait for 19.50 minutes after he joins a queue until he leaves the queue and starts to be served.
-The average time an ordinary account holder needs to wait after he joins queue 2 until he leaves queue 2 and starts to be served is 19.50 minutes.
-The average time an ordinary account holder needs to wait after he joins queue 3 until he leaves queue 3 and starts to be served is 19.50 minutes.
-The average time an ordinary account holder needs to wait after he joins queue 4 until he leaves queue 4 and starts to be served is 19.50 minutes.
-The total number of customers counter 0 serves is 7.
-The total number of customers counter 1 serves is 7.
-The total number of customers counter 2 serves is 6.
-The total number of customers counter 3 serves is 6.
-The total number of customers counter 4 serves is 5.
+On average a VIP account holder needs to wait for 0.00 minutes after he joins a queue until he leaves the queue and starts to be served.
+On average an ordinary account holder needs to wait for 0.00 minutes after he joins a queue until he leaves the queue and starts to be served.
+The average time an ordinary account holder needs to wait after he joins queue 2 until he leaves queue 2 and starts to be served is 0.00 minutes.
+The average time an ordinary account holder needs to wait after he joins queue 3 until he leaves queue 3 and starts to be served is 0.00 minutes.
+The average time an ordinary account holder needs to wait after he joins queue 4 until he leaves queue 4 and starts to be served is 0.00 minutes.
+The total number of customers counter 0 serves is 3.
+The total number of customers counter 1 serves is 1.
+The total number of customers counter 2 serves is 3.
+The total number of customers counter 3 serves is 2.
+The total number of customers counter 4 serves is 0.
