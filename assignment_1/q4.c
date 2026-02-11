@@ -2,7 +2,6 @@
 #include <stdlib.h>
 #include <string.h>
 #include "queue.h"
-#include "queue.c"
 typedef enum {vipBanking, ordinaryBanking} accountType;
 
 typedef struct customerDataT {
